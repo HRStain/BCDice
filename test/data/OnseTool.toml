@@ -1,0 +1,9 @@
+[[ test ]]
+game_system = "OnseTool"
+input = "3OT>=10"
+output = "(3OT>=10) ＞ 13[6,6,1] ＞ クリティカル"
+rands = [
+  { sides = 6, value = 6 },
+  { sides = 6, value = 6 },
+  { sides = 6, value = 1 },
+]
